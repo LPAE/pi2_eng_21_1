@@ -17,15 +17,15 @@ Projetos Integradores dos alunos da Engenharia Eletrônica - IFSC Florianópolis
 
 | Aluno              | Link do repositório                                                                      |
 |-----------------------------------|---------------------------------------------------------------------------|
-| BRUNO CAMARGO                     | https://github.com/nobrucamargo/PI-II                                     |
-| CAIO NEVES MEIRA                  | https://github.com/CaioMeira/Projeto_Integrador_II_2021                   |
-| GABRIEL DE OLIVEIRA PERES         | https://github.com/imperes/PI2                                            |
-| JOAO PEDRO DE ARAUJO DUARTE       | https://github.com/jaojao7/pi2_jpad                                       |
-| JONAS GOEDERT MORSCH              | https://github.com/JonasGMorsch/PI2                                       |
-| LAURA MARTIN DA SILVA WERNECK     | https://github.com/LauraMWerneck/Domotica_pi2                             |
-| LUIZ FERNANDO ASSIS SENE          | https://github.com/luiz-sene/ProjetoIntegradorII.git                      |
-| MARCELO POYER RADETSKI            | https://github.com/2576358/PI_2                                           |
-| MARCELO ZAMPIERI PEREIRA DA SILVA | https://github.com/MarceloZam/Projeto-Integrador-2-IFSC                   |
-| NATALIA BESEN                     | https://github.com/NataliaBesen/PI2_2021.1                                |
-| STANISLAU DE LIRA KASZUBOWSKI     | https://github.com/StanisLK/PI2                                           |
-| YURI MARQUES BARBOZA              | https://github.com/Yuri-m-b/Projeto-Integrador-2-Yuri.B                   |
+| Bruno Camargo                     | https://github.com/nobrucamargo/PI-II                                     |
+| Caio Neves Meira                  | https://github.com/CaioMeira/Projeto_Integrador_II_2021                   |
+| Gabriel De Oliveira Peres         | https://github.com/imperes/PI2                                            |
+| Joao Pedro De Araujo Duarte       | https://github.com/jaojao7/pi2_jpad                                       |
+| Jonas Goedert Morsch              | https://github.com/JonasGMorsch/PI2                                       |
+| Laura Martin Da Silva Werneck     | https://github.com/LauraMWerneck/Domotica_pi2                             |
+| Luiz Fernando Assis Sene          | https://github.com/luiz-sene/ProjetoIntegradorII.git                      |
+| Marcelo Poyer Radetski            | https://github.com/2576358/PI_2                                           |
+| Marcelo Zampieri Pereira Da Silva | https://github.com/MarceloZam/Projeto-Integrador-2-IFSC                   |
+| Natalia Besen                     | https://github.com/NataliaBesen/PI2_2021.1                                |
+| Stanislau De Lira Kaszubowski     | https://github.com/StanisLK/PI2                                           |
+| Yuri Marques Barboza              | https://github.com/Yuri-m-b/Projeto-Integrador-2-Yuri.B                   |
